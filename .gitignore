@@ -1,0 +1,20 @@
+
+# Personal PDF documents
+pdf_files/
+
+# Extracted text files
+extracted_text/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
